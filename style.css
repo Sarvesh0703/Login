@@ -7,7 +7,7 @@
 .container{
     height: 100vh;
     width: 100%;
-    background-image: url(back.WEBP.webp);
+    background-image: url(bg.jpg);
     background-position: center;
     background-size: cover;
     position: absolute;
@@ -15,7 +15,7 @@
 .form-box{
     width: 380px;
     height: 480px;
-    background: rgb(243, 233, 233);
+    background: rgb(238, 232, 232);
     margin: 6% auto;
     position: relative;
     padding: 5px;
